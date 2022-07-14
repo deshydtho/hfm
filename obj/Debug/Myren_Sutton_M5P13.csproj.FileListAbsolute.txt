@@ -1,0 +1,11 @@
+C:\Users\monka\Desktop\Summer C# Class\Myren_Sutton_M5P13\bin\Debug\Myren_Sutton_M5P13.exe.config
+C:\Users\monka\Desktop\Summer C# Class\Myren_Sutton_M5P13\bin\Debug\Myren_Sutton_M5P13.exe
+C:\Users\monka\Desktop\Summer C# Class\Myren_Sutton_M5P13\bin\Debug\Myren_Sutton_M5P13.pdb
+C:\Users\monka\Desktop\Summer C# Class\Myren_Sutton_M5P13\obj\Debug\Myren_Sutton_M5P13.csproj.AssemblyReference.cache
+C:\Users\monka\Desktop\Summer C# Class\Myren_Sutton_M5P13\obj\Debug\Myren_Sutton_M5P13.csproj.SuggestedBindingRedirects.cache
+C:\Users\monka\Desktop\Summer C# Class\Myren_Sutton_M5P13\obj\Debug\Myren_Sutton_M5P13.Form1.resources
+C:\Users\monka\Desktop\Summer C# Class\Myren_Sutton_M5P13\obj\Debug\Myren_Sutton_M5P13.Properties.Resources.resources
+C:\Users\monka\Desktop\Summer C# Class\Myren_Sutton_M5P13\obj\Debug\Myren_Sutton_M5P13.csproj.GenerateResource.cache
+C:\Users\monka\Desktop\Summer C# Class\Myren_Sutton_M5P13\obj\Debug\Myren_Sutton_M5P13.csproj.CoreCompileInputs.cache
+C:\Users\monka\Desktop\Summer C# Class\Myren_Sutton_M5P13\obj\Debug\Myren_Sutton_M5P13.exe
+C:\Users\monka\Desktop\Summer C# Class\Myren_Sutton_M5P13\obj\Debug\Myren_Sutton_M5P13.pdb
