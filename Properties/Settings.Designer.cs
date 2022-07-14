@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Myren_Sutton_M5P13.Properties
+namespace Myren_Sutton_M5P11.Properties
 {
 
 

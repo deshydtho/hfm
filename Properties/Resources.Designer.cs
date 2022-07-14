@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Myren_Sutton_M5P13.Properties
+namespace Myren_Sutton_M5P11.Properties
 {
 
 
@@ -44,7 +44,7 @@ namespace Myren_Sutton_M5P13.Properties
             {
                 if ((resourceMan == null))
                 {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Myren_Sutton_M5P13.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Myren_Sutton_M5P11.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
